@@ -2,7 +2,7 @@
 
 Purely static version of pebblecode.com to make it easier for no techie folks to edit content. Should only be used to edit copy/HTML. 
 
-** Warning this repo may be out of sync with the development repo **
+__Warning this repo may be out of sync with the development repo__
 
 ## Viewing the site
 
@@ -12,5 +12,5 @@ Purely static version of pebblecode.com to make it easier for no techie folks to
 * Make any changes to HTML
 * Refresh to see changes in browser.
 
-please note you will need to add `.html` to the end of pages to view them in your browser. Eg http://localhost:4000/work**.html**
+please note you will need to add `.html` to the end of pages to view them in your browser. Eg <code>http://localhost:4000/work<b>.html</b></code>
 
