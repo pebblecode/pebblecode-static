@@ -7,8 +7,10 @@ Purely static version of pebblecode.com to make it easier for no techie folks to
 ## Viewing the site
 
 * Navigate to the repo in terminal
-* run `python -m SimpleHTTPServer 4000`
-* open `http://localhost:4000/` in your browser
+* Run `python -m SimpleHTTPServer 4000`
+* Open `http://localhost:4000/` in your browser
+* Make any changes to HTML
+* Refresh to see changes in browser.
 
 please note you will need to add `.html` to the end of pages to view them in your browser. Eg http://localhost:4000/work**.html**
 
